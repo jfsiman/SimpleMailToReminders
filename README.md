@@ -16,3 +16,5 @@ For installation basically you:
 * Save it in ~/Library/Service with some useful name like "Create Reminder from Email"
 * And give it a Keyboard shortcut under System Preferences > Keyboard > Shortcuts > Services
 
+![Create Keyboard Shortcut](/img/CreateReminderShortcut.png?raw=true "Create Keyboard Shortcut")
+
