@@ -1,5 +1,5 @@
 # SimpleMailToReminders
-This is a an AppleScript script to send a Mail message to the Reminders App
+This is an AppleScript script to send a Mail message to the Reminders App
 
 ## Installation
 
